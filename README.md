@@ -140,7 +140,7 @@ flutter build windows --release
 
 - **Автор:** [ikiwacheu]
 - **Email:** ikiwacheu@gmail.com
-- **GitHub:** [[@your-username](https://github.com/your-username)](https://github.com/ikiwacheu)
+- **GitHub:** (https://github.com/ikiwacheu)
 
 ---
 
