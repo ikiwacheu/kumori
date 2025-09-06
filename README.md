@@ -146,7 +146,7 @@ flutter build windows --release
 
 ## 📧 Контакты
 
-- **Автор:** [ikiwacheu]
+- **Автор:** ikiwacheu
 - **Email:** ikiwacheu@gmail.com
 - **GitHub:** https://github.com/ikiwacheu
 
