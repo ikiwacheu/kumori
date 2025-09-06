@@ -1,0 +1,2 @@
+C:/fl pro/kumori/android/app/.cxx/RelWithDebInfo/1rg4p2d3/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/fl pro/kumori/android/app/.cxx/RelWithDebInfo/1rg4p2d3/armeabi-v7a/CMakeFiles/rebuild_cache.dir

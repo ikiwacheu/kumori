@@ -1,0 +1,2 @@
+C:/fl pro/kumori/android/app/.cxx/Debug/58q1l6d5/x86_64/CMakeFiles/edit_cache.dir
+C:/fl pro/kumori/android/app/.cxx/Debug/58q1l6d5/x86_64/CMakeFiles/rebuild_cache.dir
