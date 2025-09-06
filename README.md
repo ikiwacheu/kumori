@@ -41,7 +41,11 @@
 
 ## 🛠 Технологии
 
+<<<<<<< HEAD
 - **Flutter** 3.7.+ - Основной фреймворк
+=======
+- **Flutter** 3.7.0+ - Основной фреймворк
+>>>>>>> ed7086c120f5f2e07338d07085ab302776dcae80
 - **Dart** - Язык программирования
 - **Material Design 3** - Дизайн-система
 - **SharedPreferences** - Локальное хранение данных
@@ -142,9 +146,9 @@ flutter build windows --release
 
 ## 📧 Контакты
 
-- **Автор:** [Ваше имя]
-- **Email:** your.email@example.com
-- **GitHub:** [@your-username](https://github.com/your-username)
+- **Автор:** [ikiwacheu]
+- **Email:** ikiwacheu@gmail.com
+- **GitHub:** https://github.com/ikiwacheu
 
 ---
 

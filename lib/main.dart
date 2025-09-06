@@ -3,10 +3,8 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'screens/home_screen.dart';
 
 void main() async {
-  // Ensure Flutter is initialized before using platform channels
   WidgetsFlutterBinding.ensureInitialized();
 
-  // Initialize SharedPreferences
   await SharedPreferences.getInstance();
 
   runApp(const MyApp());

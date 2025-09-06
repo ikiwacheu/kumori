@@ -55,7 +55,7 @@ class DateHelper {
       grouped[groupLabel]!.add(transaction);
     }
 
-    // Сортируем группы по приоритету
+    // сортируем группы по приоритету
     final sortedGroups = <String, List<Transaction>>{};
     final groupOrder = [
       'Сегодня',
@@ -64,7 +64,7 @@ class DateHelper {
       'В этом месяце',
     ];
 
-    // Добавляем группы в правильном порядке
+    // добавляем группы в правильном порядке
     for (final group in groupOrder) {
       if (grouped.containsKey(group)) {
         sortedGroups[group] = grouped[group]!;
@@ -72,13 +72,13 @@ class DateHelper {
       }
     }
 
-    // Добавляем оставшиеся группы (месяцы и годы)
+    // добавляем оставшиеся группы (месяцы и годы)
     final remainingKeys = grouped.keys.toList()..sort((a, b) => b.compareTo(a));
     for (final key in remainingKeys) {
       sortedGroups[key] = grouped[key]!;
     }
 
-    // Сортируем транзакции внутри каждой группы по дате (новые сверху)
+    // сортируем транзакции внутри каждой группы по дате (новые сверху)
     for (final group in sortedGroups.values) {
       group.sort((a, b) => b.date.compareTo(a.date));
     }
