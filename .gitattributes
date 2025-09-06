@@ -1,0 +1,27 @@
+# Flutter/Dart project language detection
+*.dart linguist-language=Dart
+*.kt linguist-vendored
+*.swift linguist-vendored
+*.cc linguist-vendored
+*.cpp linguist-vendored
+*.h linguist-vendored
+*.cmake linguist-vendored
+*.gradle linguist-vendored
+
+# Platform-specific build files should be ignored in language stats
+android/* linguist-vendored
+ios/* linguist-vendored
+linux/* linguist-vendored
+macos/* linguist-vendored
+windows/* linguist-vendored
+web/* linguist-vendored
+
+# Build and generated files
+build/* linguist-generated
+**/.dart_tool/* linguist-generated
+**/.packages linguist-generated
+**/pubspec.lock linguist-generated
+
+# Flutter specific
+lib/* linguist-language=Dart
+test/* linguist-language=Dart

@@ -6,6 +6,10 @@
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
   ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
   ![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
+  
+  [![GitHub issues](https://img.shields.io/github/issues/your-username/kumori?style=flat-square)](https://github.com/your-username/kumori/issues)
+  [![GitHub license](https://img.shields.io/github/license/your-username/kumori?style=flat-square)](https://github.com/your-username/kumori/blob/main/LICENSE)
+  [![GitHub stars](https://img.shields.io/github/stars/your-username/kumori?style=flat-square)](https://github.com/your-username/kumori/stargazers)
 </div>
 
 ## 📱 О проекте
@@ -37,7 +41,7 @@
 
 ## 🛠 Технологии
 
-- **Flutter** 3.6.0+ - Основной фреймворк
+- **Flutter** 3.7.+ - Основной фреймворк
 - **Dart** - Язык программирования
 - **Material Design 3** - Дизайн-система
 - **SharedPreferences** - Локальное хранение данных
